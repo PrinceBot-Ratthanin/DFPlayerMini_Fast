@@ -1,0 +1,15 @@
+{
+  "name": "DFPlayerMini_Fast",
+  "title" : "DFPlayerMini_Fast",
+  "keywords": "DFPlayer, MP3 , mp3",
+  "description": "The DFPlayer Mini MP3 Player For Arduino is a small and low price MP3 module with an simplified output directly to the speaker.",
+  "category":"Device Control",
+  "license": "DFRobot",
+  "git": "https://github.com/KhonKaenMakerClub/lcd-i2c-kbide/",
+  "author": "original by DFRobot | blocks by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/mrkaleArduinoLib/LiquidCrystal_I2C.git",
+  "version": "0.0.0",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
