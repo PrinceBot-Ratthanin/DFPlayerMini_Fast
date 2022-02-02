@@ -9,7 +9,7 @@
   "author": "original by DFRobot | blocks by PrinceBot",
   "email": "Print081@gmail.com",
   "url": "https://github.com/PrinceBot-Ratthanin/DFPlayerMini_Fast/",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "platform": ["arduino-esp32"],
   "image" : "/static/display.jpg"
 }
